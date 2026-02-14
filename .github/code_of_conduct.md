@@ -8,4 +8,5 @@ Resources:
 - [Contributor Covenant FAQ](https://www.contributor-covenant.org/faq)
 - [Contributor Covenant Translations](https://www.contributor-covenant.org/translations)
 
-Contact: chuckie_chen945@qq.com
+
+Contact: chuckie_chen@outlook.com
